@@ -3,7 +3,7 @@
 ## Exercice 1 — Division sécurisée  
 Fonction `diviser(int a, int b)` avec gestion d’exception pour division par zéro.
 
-![Exercice 1](tp14ex1cpp.png)
+![Exercice 1](Tp14ex1cpp.png)
 
 ---
 
